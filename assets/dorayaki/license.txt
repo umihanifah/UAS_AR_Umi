@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dorayaki
+* source:	https://sketchfab.com/3d-models/dorayaki-224e658021ac457282e6072d547ceb7b
+* author:	Aris Hadisopiyan (https://sketchfab.com/aris.hadisopiyan)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dorayaki" (https://sketchfab.com/3d-models/dorayaki-224e658021ac457282e6072d547ceb7b) by Aris Hadisopiyan (https://sketchfab.com/aris.hadisopiyan) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
