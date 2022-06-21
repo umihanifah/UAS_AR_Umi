@@ -1,0 +1,11 @@
+Model Information:
+* title:	Doraemon
+* source:	https://sketchfab.com/3d-models/doraemon-d1f580c1476247208b01af5a5d73f80d
+* author:	sharmadeepakkumar991 (https://sketchfab.com/dkski3Dduniya)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Doraemon" (https://sketchfab.com/3d-models/doraemon-d1f580c1476247208b01af5a5d73f80d) by sharmadeepakkumar991 (https://sketchfab.com/dkski3Dduniya) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
