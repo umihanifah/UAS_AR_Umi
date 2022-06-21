@@ -54,20 +54,22 @@
         <a-assets timeout="900000">
            
             <a-asset-item id="toon" src="./assets/toon_cat_free/scene.gltf"></a-asset-item>
+          <a-asset-item id="doraemon" src="./assets/doraemon/scene.gltf"></a-asset-item>
           
+            
             
             <a-asset-item id="exoItalicFont" src="https://cdn.glitch.com/c719c986-c0c5-48b8-967c-3cd8b8aa17f3%2Fexo2BlackItalic.typeface.json?1490305922725"></a-asset-item>
         </a-assets>
 
         <!-- handle hiro marker -->
         <a-marker preset="hiro">
-          <a-entity gltf-model="#toon" animation-mixer></a-entity>
+          <a-entity gltf-model="#doraemon" animation-mixer></a-entity>
         </a-marker>
 
         <!-- handle matrix marker -->
         <a-marker type="barcode" value="1">
             <a-plane width="1" height="1" position="0 0 0" rotation="-90 0 0" color="green">
-                <a-gltf-model src="#toon" rotation="90 0 0" position="0 -0.2 0.2" scale="0.5 0.5 0.5"></a-gltf-model>
+                <a-gltf-model src="#doraemon" rotation="90 0 0" position="0 -0.2 0.2" scale="0.5 0.5 0.5"></a-gltf-model>
             </a-plane>
         </a-marker>
 
